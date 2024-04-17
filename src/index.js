@@ -3,7 +3,7 @@
  * @author leecade<leecade@163.com>
  */
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import { PropTypes } from 'deprecated-react-native-prop-types'
 import {
   Text,
   View,
